@@ -13,4 +13,5 @@ public class StudyDatabase {
     @Column(columnDefinition = "TEXT")
     public String content;
     Date date;
+    //insert into study_database values (1,'두 번째 쥐인 척 하는 첫 번째 실험쥐',current_timestamp)
 }
